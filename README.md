@@ -18,3 +18,5 @@ Example config
                 </Else>
 </Location>
 ```
+
+install by "sudo apxs -i -a -c mod_validatebearertoken.c"
